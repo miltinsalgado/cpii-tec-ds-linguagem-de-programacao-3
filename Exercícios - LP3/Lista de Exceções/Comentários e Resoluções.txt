@@ -1,0 +1,14 @@
+Questão 01
+a) System.IndexOutOfRangeException
+b) Usar breakpoint
+c) Código corrigido com "i<=4"
+
+Questão 02
+Exceção 1: System.FormatException
+Causa: Entrar com um texto que não seja totalmente composto por números (Exemplo: milton)
+Exceção 2: System.OverflowException
+Causa: Entrada com um valor númérico muito grande (Exemplo: 222222222222222222222222222222222222222222222222222222222222222)
+
+Questão 03
+Exceção 1: System.ArgumentOutOfRangeException
+Causa: Gerar e tentar mostrar um valor maior que máximo e menor que o mínimo estabelecidos na NumericUpDown

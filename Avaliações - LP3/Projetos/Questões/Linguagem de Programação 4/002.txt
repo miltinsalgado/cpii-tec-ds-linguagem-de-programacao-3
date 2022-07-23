@@ -1,0 +1,10 @@
+Sobre as características da linguagem HTML5, assinale a alternativa correta.
+É orientada a objetos.
+Usa bancos de dados SQL da Web, cache de aplicativos para armazenamento temporário de dados.
+Não é baseado no SGML, e isso permite que ele tenha regras de análise aprimoradas que proporcionam compatibilidade aprimorada.
+MathML inline e SVG não podem ser usados no texto enquanto isto era possível em HTML.
+É uma linguagem de programação que representa uma versão menos atual do HTML em correspondência ao DHTML.
+O correto é a letra B, visto que o Web SQL foi descontinuado há mais de 10 anos. Hoje o foco é Web Storage.
+0
+0
+b

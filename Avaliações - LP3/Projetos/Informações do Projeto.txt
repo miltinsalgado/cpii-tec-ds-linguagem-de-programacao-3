@@ -1,0 +1,18 @@
+Grupo: Milton, Oscar, Jefferson, Gabriel Borges e Lucas
+Professor: João Lagôas
+Turma: IN-311
+Projeto: Sistema de Questões
+
+Funcionalidades Básicas:
+Resolução e Adição de Questões
+Cadastro e Entrada de Usuários para adicionar questões
+
+Funcionalidades Adicionais:
+Tela de Login
+Design Aprimorado
+Verificação de Erro
+Visualização de Senha
+Atualização de Questões e de Senhas
+Alertas e Mensagens ao Usuário
+Seleção de Questões Aprimorada
+Limpeza de Texto na Adição de Questões

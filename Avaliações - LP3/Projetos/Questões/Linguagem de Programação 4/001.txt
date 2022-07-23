@@ -1,0 +1,10 @@
+"É uma linguagem de programação open source, que é interpretada pelo servidor, muito utilizada para o desenvolvimento de aplicações voltadas para a internet." | "Serve para promover o acabamento visual das páginas web. Pode ser compartilhado entre várias páginas, permitindo, assim, uma padronização visual muito simplificada e lógica." | "É uma linguagem de marcação, que é interpretada pelo browser para dar formatação e posicionamento ao conteúdo do website." As citações referem-se às seguintes linguagens de programação, respectivamente:
+CSS, HTML, PHP
+PHP, HTML, CSS
+HTML, CSS, PHP
+CSS, PHP, HTML
+PHP, CSS, HTML
+PHP: Se não fosse explicitamente citado o PHP, poderiam haver outras linguagens, mas aqui foi descrito de forma simples a missão do PHP. | CSS: Diferentemente da primeira afirmativa, nessa aqui conseguiríamos inferir, precisamente, o CSS pelo fato de estar descrito que a missão é promover o acabando visual das páginas web. Mesmo não sendo uma definição um tanto técnica, é possível concluir que estamos falando de CSS. | HTML: Uma Linguagem de marcação, interpretada pelo navegador, certamente, o primeiro nome que veio à sua mente foi HTML, certo? Pois, bem, é de fato dela que estamos falando aqui.
+0
+0
+e

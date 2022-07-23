@@ -1,0 +1,25 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\ref\Exemplo Pratico.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\Exemplo Pratico.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo_Pratico.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.csproj.CopyComplete
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\ref\Exemplo Pratico.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exemplo Pratico\obj\Debug\net5.0-windows\Exemplo Pratico.genruntimeconfig.cache

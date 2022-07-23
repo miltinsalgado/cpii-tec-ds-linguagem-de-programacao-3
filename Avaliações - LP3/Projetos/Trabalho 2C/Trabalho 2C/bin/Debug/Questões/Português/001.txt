@@ -1,0 +1,10 @@
+Qual o grupo em que todas as palavras foram escritas corretamente?
+Asterístico, beneficiente, meteorologia, entertido.
+Asterisco, beneficente, meteorologia, entretido.
+Asterisco, beneficente, metereologia, entretido.
+Asterístico, beneficiente, metereologia, entretido.
+Asterisco, beneficiente, metereologia, entretido.
+Estas palavras são exemplos de barbarismo, um vício de linguagem em que as palavras são pronunciadas ou escritas incorretamente.
+0
+0
+b

@@ -1,0 +1,10 @@
+Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa. Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a:
+1.12.
+3.10.
+4.35
+4.48
+5.60
+O consumo total de água neste povoado nos sete dias é 120 * 100 * 7 = 84.000L. Como 1m³ equivale a 1000L, pode-se dizer que o volume do reservatório deve ser de 84m³. Seja h a altura interna do reservatório, em metros, de acordo com os dados do enunciado segue que: π * (2.5)² * h = 84 -> 3 * 6,25 * h = 84 -> h= 84/18,75 -> h= 4,48.
+0
+0
+d

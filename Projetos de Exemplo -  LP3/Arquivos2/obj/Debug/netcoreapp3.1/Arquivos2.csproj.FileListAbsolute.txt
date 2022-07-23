@@ -1,0 +1,16 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\bin\Debug\netcoreapp3.1\Arquivos2.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Arquivos2\obj\Debug\netcoreapp3.1\Arquivos2.genruntimeconfig.cache

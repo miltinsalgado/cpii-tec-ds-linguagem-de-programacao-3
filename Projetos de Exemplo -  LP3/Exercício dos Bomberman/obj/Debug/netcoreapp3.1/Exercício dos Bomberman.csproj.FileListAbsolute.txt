@@ -1,0 +1,14 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\bin\Debug\netcoreapp3.1\Exercício dos Bomberman.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\Exercício dos Bomberman\obj\Debug\netcoreapp3.1\Exercício dos Bomberman.genruntimeconfig.cache

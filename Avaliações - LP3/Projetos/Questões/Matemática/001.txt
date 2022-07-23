@@ -1,0 +1,10 @@
+Quantas senhas com 4 algarismos diferentes podemos escrever com os algarismos 1, 2, 3, 4, 5, 6, 7, 8,e 9?
+1498 senhas.
+2378 senhas.
+3024 senhas.
+4256 senhas.
+3248 senhas.
+Como o exercício indica que não ocorrerá repetição nos algarismos que irão compor a senha, então teremos a seguinte situação: 9 opções para o algarismo das unidades; 8 opções para o algarismo das dezenas, visto que já utilizamos 1 algarismo na unidade e não pode repetir; 7 opções para o algarismo das centenas, pois já utilizamos 1 algarismo na unidade e outro na dezena; 6 opções para o algarismo do milhar, pois temos que tirar os que já usamos anteriormente. Assim, o número de senhas será dado por: 9.8.7.6 = 3024 senhas.
+0
+0
+c

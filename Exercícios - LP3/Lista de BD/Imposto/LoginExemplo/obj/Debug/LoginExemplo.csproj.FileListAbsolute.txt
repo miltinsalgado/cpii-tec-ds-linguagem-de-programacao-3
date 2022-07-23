@@ -1,0 +1,66 @@
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\bin\Debug\Mercado.mdf
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\bin\Debug\Mercado_log.ldf
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe.config
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csprojAssemblyReference.cache
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.Properties.Resources.resources
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.GenerateResource.cache
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.ProdutoForm.resources
+C:\Users\João Lagôas\source\repos\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.LoginForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\bin\Debug\Mercado.mdf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\bin\Debug\Mercado_log.ldf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.LoginForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.ProdutoForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Aula 05\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\Mercado.mdf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\Mercado_log.ldf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\ReceitaF.mdf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\ReceitaF_log.ldf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.ImpostoForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.LoginForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.ProdutoForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\ReceitaF.mdf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\ReceitaF_log.ldf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\bin\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.ImpostoForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Prova\LoginExemplo\LoginExemplo\obj\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\bin\Debug\ReceitaF.mdf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\bin\Debug\ReceitaF_log.ldf
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\bin\Debug\LoginExemplo.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\bin\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\bin\Debug\LoginExemplo.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.ImpostoForm.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\3º Período\Aula 24\Imposto\LoginExemplo\obj\Debug\LoginExemplo.pdb

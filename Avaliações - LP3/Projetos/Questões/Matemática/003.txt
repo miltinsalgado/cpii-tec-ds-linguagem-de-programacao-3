@@ -1,0 +1,10 @@
+De quantas maneiras diferentes, uma pessoa pode se vestir tendo 6 camisas e 4 calças?
+10 maneiras.
+18 maneiras.
+24 maneiras.
+32 maneiras.
+40 maneiras.
+Para solucionar esta questão, devemos utilizar o princípio fundamental da contagem e multiplicar o número de opções entre as escolhas apresentadas. Temos: 6.4 = 24 maneiras diferentes. Portanto, com 6 camisas e 4 calças uma pessoa pode se vestir de 24 maneiras diferentes.
+0
+0
+b

@@ -1,0 +1,10 @@
+Na linguagem de programação C#, os sufixos “d”, “f” e “m”, quando associados a literais numéricos, indicam que seus tipos são, respectivamente:
+decimal, float e double.
+double, real e complex.
+double, float e decimal.
+int, byte e long.
+int, double e long.
+O tipo de um literal real é determinado pelo seu sufixo da seguinte maneira: O literal sem sufixo ou com o sufixo d é do tipo double, com o sufixo f é do tipo float e com o sufixo m é do tipo decimal.
+0
+0
+c

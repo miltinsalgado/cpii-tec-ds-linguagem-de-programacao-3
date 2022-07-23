@@ -1,0 +1,10 @@
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.Form1.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\Projeto2\Projeto2\obj\Debug\Projeto2.pdb

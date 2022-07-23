@@ -1,0 +1,89 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\bin\Debug\DataBase.mdf
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\bin\Debug\DataBase_log.ldf
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\bin\Debug\TCC_LP3.exe.config
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\bin\Debug\TCC_LP3.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\bin\Debug\TCC_LP3.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormLogin.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormChangePassword.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\bin\Debug\DataBase.mdf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\bin\Debug\DataBase_log.ldf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\bin\Debug\TCC_LP3.exe.config
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\bin\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\bin\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormChangePassword.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormLogin.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.csproj.GenerateResource.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenu.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (3)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormAnswerQuestons.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\bin\Debug\DataBase.mdf
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\bin\Debug\DataBase_log.ldf
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\bin\Debug\TCC_LP3.exe.config
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\bin\Debug\TCC_LP3.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\bin\Debug\TCC_LP3.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormAnswerQuestons.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormChangePassword.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormLogin.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenu.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\bin\Debug\DataBase.mdf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\bin\Debug\DataBase_log.ldf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\bin\Debug\TCC_LP3.exe.config
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\bin\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\bin\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormAnswerQuestons.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormChangePassword.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormLogin.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenu.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.csproj.GenerateResource.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMakeSimulated.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenuUser.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (4)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormSeeRanking.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormAnswerQuestons.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMakeSimulated.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenu.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenuUser.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Projetos\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormSeeRanking.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\bin\Debug\DataBase.mdf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\bin\Debug\DataBase_log.ldf
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\bin\Debug\TCC_LP3.exe.config
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\bin\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\bin\Debug\TCC_LP3.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormAnswerQuestons.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormChangePassword.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormLogin.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMakeSimulated.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenu.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenuUser.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormSeeRanking.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.csproj.GenerateResource.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 17 (29.11.2021)\TCC_LP3\Nova pasta (6)\TCC_LP3\obj\Debug\TCC_LP3.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMakeQuestion.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMakeSimulated.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormMenuUser.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormSeeRanking.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Arquivos Compactados\TCC_LP3\obj\Debug\TCC_LP3.Forms.FormSelectMatterSimulated.resources

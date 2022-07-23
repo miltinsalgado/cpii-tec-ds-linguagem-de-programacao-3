@@ -1,0 +1,14 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\bin\Debug\netcoreapp3.1\Questão 01-b.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.genruntimeconfig.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Arquivos\Questão 01-b\obj\Debug\netcoreapp3.1\Questão 01-b.csproj.AssemblyReference.cache

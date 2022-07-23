@@ -1,0 +1,26 @@
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeLogin.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.GenerateResource.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeResolucaoDeQuestoes.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeAdicaoDeQuestoes.resources
+C:\Users\Jefferson\Desktop\estudo\3º Terceiro      2021\!Técnico\LP3\Aula 8 (27.09.2021)\5\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaInicial.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeResolucaoDeQuestoes.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeAdicaoDeQuestoes.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaDeLogin.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_2C.TelaInicial.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho_de_Resolução_de_Questões.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Avaliações - LPIII\Trabalho 2C\Trabalho 2C\obj\Debug\Trabalho 2C.pdb

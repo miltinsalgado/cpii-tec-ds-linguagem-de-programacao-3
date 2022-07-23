@@ -1,0 +1,10 @@
+Uma lanchonete tem uma promoção de combo com preço reduzido em que o cliente pode escolher 4 tipos diferentes de sanduíches, 3 tipos de bebida e 2 tipos de sobremesa. Quantos combos diferentes os clientes podem montar?
+30 combos.
+22 combos.
+34 combos.
+24 combos.
+32 combos.
+Usando o princípio fundamental da contagem, multiplicamos o número de opções entre as escolhas apresentadas. Assim: 4.3.2 = 24 combos diferentes. Portanto, os clientes podem montar 24 combos diferentes.
+0
+0
+d

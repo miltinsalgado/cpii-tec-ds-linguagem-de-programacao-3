@@ -1,0 +1,7 @@
+1) Desenhar o DER e compartilhar com os colegas
+2) Implementar o Projeto Físico (as tabelas no Visual Studio);
+3) Preencher com alguns registros o banco de dados;
+4) Pensar, baseado no banco estabelcido, qual form (s) a aplicação vai ter
+Ex: PerfilForm, utilização de chart em algum lugar, etc
+5) Implementar um dos Forms se comunicando com o BD e marcar um novo encontro;
+SimuladoForm, PerfilForm, QuestaoForm, etc

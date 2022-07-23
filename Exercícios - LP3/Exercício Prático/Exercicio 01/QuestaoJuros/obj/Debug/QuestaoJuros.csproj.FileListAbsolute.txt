@@ -1,0 +1,30 @@
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.Form1.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2018)\LP2\2° Período\Aula 03\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.exe.config
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\bin\Debug\QuestaoJuros.pdb
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csprojAssemblyReference.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.Form1.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.Properties.Resources.resources
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.GenerateResource.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.CoreCompileInputs.cache
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.exe
+C:\Users\João Lagôas\OneDrive\Trabalho\Colégio Pedro II (2019)\LP2\2° Período\Aula 13\QuestaoJuros\QuestaoJuros\obj\Debug\QuestaoJuros.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\bin\Debug\QuestaoJuros.exe.config
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\bin\Debug\QuestaoJuros.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\bin\Debug\QuestaoJuros.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Exercício Prático\Exercicio 01\QuestaoJuros\obj\Debug\QuestaoJuros.pdb

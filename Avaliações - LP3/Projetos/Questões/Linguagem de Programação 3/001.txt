@@ -1,0 +1,10 @@
+A diretiva public é utilizada em C# para aplicar a encapsulação pública
+aos métodos e classes, apenas.
+aos atributos e métodos.
+às classes, apenas.
+aos atributos, apenas.
+aos atributos e classes, apenas.
+A diretiva public é utilizada em C# para aplicar a encapsulação pública apenas em atributos e métodos. Classes não podem ser encapsuladas.
+0
+0
+b

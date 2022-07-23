@@ -1,0 +1,10 @@
+Quais são os três pilares do projeto?
+Tempo, Escopo e Custo
+Polimorfismo, Herança e Encapsulamento
+Qualidade, Risco e Comunicação
+Sla, Não sei, vamos ver
+Inseto, Água e Névoa
+A resposta é tempo, escopo e custo
+0
+0
+a

@@ -1,0 +1,10 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\bin\Debug\Questao 02.exe.config
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\bin\Debug\Questao 02.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\bin\Debug\Questao 02.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao 02.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao_02.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao_02.Properties.Resources.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao 02.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao 02.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao 02.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Exercícios - LPIII\Lista de Exceções\Questao 02\Questao 02\obj\Debug\Questao 02.pdb

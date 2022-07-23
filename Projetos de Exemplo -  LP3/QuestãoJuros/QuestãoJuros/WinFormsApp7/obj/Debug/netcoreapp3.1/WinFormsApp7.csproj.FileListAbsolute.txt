@@ -1,0 +1,16 @@
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.exe
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.deps.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.runtimeconfig.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.runtimeconfig.dev.json
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\bin\Debug\netcoreapp3.1\WinFormsApp7.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.Form1.resources
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.AssemblyInfo.cs
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.dll
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.pdb
+C:\Users\milto\Downloads\Desenvolvimento de Sistemas\Linguagem de Programação III\Projetos de Exemplo -  LPIII\QuestãoJuros\QuestãoJuros\WinFormsApp7\obj\Debug\netcoreapp3.1\WinFormsApp7.genruntimeconfig.cache
